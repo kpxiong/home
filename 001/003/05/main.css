@@ -1,0 +1,9 @@
+div {
+    width: 400px;
+    height: 200px;
+    border: 10px dashed deepskyblue;
+    margin: 20px auto;
+    background-image: url("denpa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

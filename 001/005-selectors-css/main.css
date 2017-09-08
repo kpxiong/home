@@ -1,0 +1,12 @@
+div {
+    height: 100px;
+    width: 100px;
+}
+
+#king {
+    color: hotpink;
+}
+
+.slave {
+    color: red;
+}
